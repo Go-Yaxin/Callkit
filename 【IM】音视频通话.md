@@ -152,7 +152,8 @@
 
 ## 规则说明
 
-- 音视频通话能力 TUICallKit 由即时通信 IM 与实时音视频 TRTC 两个底层 PaaS 服务提供支持，**使用期间请务必保证您的 IM 应用和 TRTC 应用处于可用状态，否则音视频通话相关功能将无法正常使用**。
+- 音视频通话能力（TUICallKit）由即时通信（IM）与实时音视频（TRTC）两个底层 PaaS 服务提供支持，**使用期间请务必保证您的 IM 应用和 TRTC 应用处于可用状态，否则TUICallKit相关功能将无法正常使用**。
+- 音视频通话能力（TUICallKit）为实时音视频（TRTC）包月套餐提供的功能项之一，购买 TUICallKit 相当于订阅对应版本的 TRTC 包月套餐，更多 TRTC 包月套餐说明可参见 [TRTC版本功能](？？？)。
 - 音视频通话能力购买后立即生效，体验版默认7天，付费版默认1个月。
 - 音视频通话能力暂不支持版本升降级。若您需要使用其他版本的音视频通话能力，可在当前版本到期后重新购买，或在满足 [退款规则](https://cloud.tencent.com/document/product/269/32473#.E4.BA.94.E5.A4.A9.E6.97.A0.E7.90.86.E7.94.B1.E9.80.80.E8.BF.98) 的前提下，退还当前版本音视频通话能力，重新购买新的版本。
 - 音视频通话能力不支持更换 SDKAppId，您在选购时请务必确认您需要购买的 SDKAppId。
@@ -189,6 +190,10 @@
 ![](https://qcloudimg.tencent-cloud.cn/raw/1d3791ea538dfc52280c4977bdc05937.png)
 5. 购买完成后，您可回到  [即时通信 IM 控制台](https://console.cloud.tencent.com/im)，在**腾讯实时音视频服务**功能区查看当前版本信息。开通完成后即可参见 [集成指引](https://cloud.tencent.com/document/product/269/72445) 进行集成。
 ![](https://qcloudimg.tencent-cloud.cn/raw/d4399cdf827f1d8e82a959cbf73bfd27.png)
+
+注意：
+购买 TUICallKit 相当于订阅对应版本的 TRTC 包月套餐，若您已经订阅过 TRTC 包月套餐，则无需重复加购音视频通话能力，仅需购买 IM 付费版后即可使用 TUICallKit。但如果您在订阅 TRTC 包月套餐时的场景选择了裸 SDK , 您还需要在购买完成后前往 TRTC 控制台-xxx-xxx，点击【立即开通组件】，开通成功后方可使用TUICallKit。
+
 
 ### 续费正式版
 
