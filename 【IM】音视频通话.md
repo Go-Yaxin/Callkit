@@ -192,7 +192,8 @@
 ![](https://qcloudimg.tencent-cloud.cn/raw/d4399cdf827f1d8e82a959cbf73bfd27.png)
 
 注意：
-购买 TUICallKit 相当于订阅对应版本的 TRTC 包月套餐，若您已经订阅过 TRTC 包月套餐，则无需重复加购音视频通话能力，仅需购买 IM 付费版后即可使用 TUICallKit。但如果您在订阅 TRTC 包月套餐时的场景选择了裸 SDK , 您还需要在购买完成后前往 TRTC 控制台-xxx-xxx，点击【立即开通组件】，开通成功后方可使用TUICallKit。
+* 购买 TUICallKit 相当于订阅对应版本的 TRTC 包月套餐，若您已经订阅过付费版的 TRTC 包月套餐，则无需重复加购音视频通话能力，仅需购买 IM 付费版后即可使用 TUICallKit。
+* 若您在满足前述条件下音视频通话能力仍显示未开通，您可通过点击【查看配置】前往 TRTC 控制台查看应用配置，并在【含 UI 集成方案】卡片中点击【立即开通组件】，开通成功后方可使用 TUICallKit。
 
 
 ### 续费正式版
