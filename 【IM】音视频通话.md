@@ -9,151 +9,178 @@
 
 为了您更好的使用音视频通话能力，我们提供多种版本，具体功能和定价可参考下表，您可按需选购。
 
-> ? 音视频通话能力基础版、进阶版、尊享版刊例价分别为 625元/月、1250元/月、1875元/月，**当前购买享受优惠折扣**，具体价格见下表：
+> ? 音视频通话能力1v1通话版、群组通话版-38万分钟、群组通话版-140万分钟刊例价分别为 625元/月、1875元/月、6250元/月，**当前购买享受优惠折扣**，具体价格见下表：
 
 <table>
 <thead>
 <tr>
-<th style="text-align: center" colspan=2>对比项</th>
-<th style="text-align: center">体验版</th>
-<th style="text-align: center">基础版</th>
-<th style="text-align: center">进阶版</th>
-<th style="text-align: center">尊享版</th>
+<th colspan=2>对比项</th>
+<th>体验版</th>
+<th>1v1 通话版</th>
+<th>群组通话版-38万分钟</th>
+<th>群组通话版-140万分钟</th>
 </tr>
 </thead>
 <tbody><tr>
-<td style="text-align: center" colspan=2>价格</td>
-<td style="text-align: center">0元/7天</td>
-<td style="text-align: center">500元/月<br><a href="https://buy.cloud.tencent.com/avc">立即选购</a></td>
-<td style="text-align: center">1000元/月<br><a href="https://buy.cloud.tencent.com/avc">立即选购</a></td>
-<td style="text-align: center">1500元/月<br><a href="https://buy.cloud.tencent.com/avc">立即选购</a></td>
+<tr>
+<td colspan=2>刊例价</td>
+<td> 0元/7天</td>
+<td><u>625元/月</u></td>
+<td><u>1875元/月</u></td>
+<td><u>6250元/月</u></td>
+</tr>
+<td colspan=2>限时8折优惠价<br></td>
+<td>0元/7天</td>
+    <td>500元/月<br><a href="https://buy.cloud.tencent.com/avc">立即购买</a></td>
+<td>1500元/月<br><a href="https://buy.cloud.tencent.com/avc">立即购买</a></td>
+<td>5000元/月<br><a href="https://buy.cloud.tencent.com/avc">立即购买</a></td>
 </tr>
 <tr>
-<td style="text-align: center" colspan=2>即时通信相关功能</td>
-<td style="text-align: center">可配合 IM 不同版本试用</td>
-<td style="text-align: center">配合 <a href="https://cloud.tencent.com/document/product/269/11673#.E5.9F.BA.E7.A1.80.E6.9C.8D.E5.8A.A1.E8.AF.A6.E6.83.85">IM 专业版</a> 使用</td>
-<td style="text-align: center">配合 <a href="https://cloud.tencent.com/document/product/269/11673#.E5.9F.BA.E7.A1.80.E6.9C.8D.E5.8A.A1.E8.AF.A6.E6.83.85">IM 专业版</a> 使用</td>
-<td style="text-align: center">配合 <a href="https://cloud.tencent.com/document/product/269/11673#.E5.9F.BA.E7.A1.80.E6.9C.8D.E5.8A.A1.E8.AF.A6.E6.83.85">IM 旗舰版</a> 使用</td>
+<td colspan=2>开通条件</td>
+<td>IM 为任意版本均可开通</td>
+<td colspan=3>IM 为专业版或旗舰版时可开通</td>
 </tr>
 <tr>
-<td style="text-align: center" colspan=2>赠送通话时长（超出后付费）</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">110,000分钟/月</td>
-<td style="text-align: center">235,000分钟/月</td>
-<td style="text-align: center">380,000分钟/月</td>
+<td colspan=2>对应 TRTC 包月套餐</td>
+<td>体验版</td>
+<td>基础版</td>
+<td>尊享版</td>
+<td>旗舰版</td>
 </tr>
 <tr>
-<td style="text-align: center;width:60px" rowspan=13>通话相关功能</td>
+<td colspan=2>赠送音视频时长<br>(仅支持抵扣音视频时长用量)</td>
+<td>-</td>
+<td>11万 分钟/月</td>
+<td>38万 分钟/月</td>
+<td>140万 分钟/月</td>
+</tr>
+<tr>
+<td colspan=2>超出赠送资源部分后付费</td>
+<td colspan=4>通话时长后付费价格详见 <a href="https://cloud.tencent.com/document/product/647/44248">音视频时长计费说明</a>，DAU 与 峰值群组数后付费价格详见 <a href="https://cloud.tencent.com/document/product/269/11673#.E5.9F.BA.E7.A1.80.E6.9C.8D.E5.8A.A1.E8.B5.84.E8.B4.B9.3Ca-id.3D.22jc.22.3E.3C.2Fa.3E">IM计费说明</a> 。</td>
+</tr>
+<tr>
+<td rowspan=15>TUICallKit 功能</td>
 <td>微信同款 UI 设计</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>通话状态展示</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>通话呼叫通知</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>通话悬浮窗</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>自定义呼叫铃声</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>呼叫/接听/拒绝/挂断</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-</tr>
-<tr>
-<td>群组通话</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-</tr>
-<tr>
-<td>中途呼叫/加入三方通话</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>视频通话切换语音通话</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>群组通话</td>
+<td>✓</td>
+<td>-</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>中途呼叫/加入三方通话</td>
+<td>✓</td>
+<td>-</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>多端登录通话</td>
-<td style="text-align: center">✓<br>（仅配合 IM 旗舰版使用）</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">✓</td>
+<td>✓<br>（需配合IM旗舰版使用）</td>
+<td>-</td>
+<td>✓<br>（需配合IM旗舰版使用）</td>
+<td>✓<br>（需配合IM旗舰版使用）</td>
 </tr>
 <tr>
 <td>同平台多端登录通话</td>
-<td style="text-align: center">✓<br>（仅配合 IM 旗舰版使用）</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">✓</td>
+<td>✓<br>（需配合IM旗舰版使用）</td>
+<td>-</td>
+<td>✓<br>（需配合IM旗舰版使用）</td>
+<td>✓<br>（需配合IM旗舰版使用）</td>
 </tr>
 <tr>
 <td>AI 降噪</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>-</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
 <td>弱网通话卡顿优化</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">-</td>
-<td style="text-align: center">✓</td>
-<td style="text-align: center">✓</td>
+<td>✓</td>
+<td>-</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
-<td style="text-align: center" colspan=2>超出赠送资源部分后付费</td>
-<td style="text-align: center" colspan=4>通话时长后付费价格详见 <a href="https://cloud.tencent.com/document/product/647/44248">音视频时长计费说明</a>，DAU 与 峰值群组数后付费价格详见 <a href="https://cloud.tencent.com/document/product/269/11673#.E5.9F.BA.E7.A1.80.E6.9C.8D.E5.8A.A1.E8.B5.84.E8.B4.B9.3Ca-id.3D.22jc.22.3E.3C.2Fa.3E"> IM 计费说明</a></td>
+<td>小程序通话加速</td>
+<td>✓</td>
+<td>-</td>
+<td>✓</td>
+<td>✓</td>
 </tr>
 <tr>
-<td style="text-align: center" colspan=2>支持平台</td>
-<td style="text-align: center" colspan=4>iOS、Android、Web、<strong>微信小程序（进阶版与尊享版支持）</strong>、uni-app、Flutter（即将上线）</td>
+<td>支持平台</td>
+<td>iOS、Android、Web、uni-app、<strong>微信小程序</strong></td>
+<td>iOS、Android、Web、uni-app</td>
+<td>iOS、Android、Web、uni-app、<strong>微信小程序</strong></td>
+<td>iOS、Android、Web、uni-app、<strong>微信小程序</strong></td>
 </tr>
 </tbody></table>
 
-<dx-alert infotype="notice" title="<b>音视频通话能力活动特惠：</b>">
-小程序端通话依赖 RTMP over Quic 与 TRTC 间互通，故小程序端使用通话组件（TUICallKit）使用需要购买进阶版及以上版本解锁。
 
-即日起至2023年01月01日0点前，购买音视频通话能力包基础版可以限时解锁小程序端使用音视频通话组件（TUICallKit）功能。在活动结束前购买的音视频通话能力包基础版，有效期内不受活动结束影响，在有效期到期前仍可使用。活动结束后基础版有效期过期续费将不再支持小程序端，需选择体验版、进阶版或尊享版使用。
-</dx-alert>
+> ?
+>
+> 1. 开通条件：TUICallKit 为 IM 和 TRTC 联合提供的服务，因此在开通 TUICallKit 需首先保证应用已有对应版本的 IM 基础套餐包。
+> 2. 对应 TRTC 包月套餐：TUICallKit 为 IM 和 TRTC 联合提供的服务，同时 TUICallKit 为 TRTC 包月套餐提供的功能项之一，因此购买 TUICallKit 相当于订阅对应版本 TRTC 包月套餐，**仅收取一次费用**，更多 TRTC 包月套餐功能及版本说明可参见 [TRTC 版本功能](https://cloud.tencent.com/document/product/647/85386)。
+>    示例：您在 IM 为专业版/旗舰版的情况下，购买了上表中刊例价为 6250元/月的**群组通话版-140万分钟**的版本，则：您订阅了 TRTC 旗舰版包月套餐，同时开通了 TUICallKit 群组通话版。 
+> 3. 赠送音视频时长：购买 TUICallKit 相当于订阅对应版本 TRTC 包月套餐， TRTC 包月套餐将赠送音视频时长用量，有效期一个月，仅可用于抵扣订阅套餐服务的应用（SDKAppId）产生的实时音视频音视频时长用量， 超额用量计费说明请参见 [音视频时长计费说明](https://cloud.tencent.com/document/product/647/44248)。
+
+
+
+
 
 ## 规则说明
 
-- 音视频通话能力（TUICallKit）由即时通信（IM）与实时音视频（TRTC）两个底层 PaaS 服务提供支持，**使用期间请务必保证您的 IM 应用和 TRTC 应用处于可用状态，否则TUICallKit相关功能将无法正常使用**。
-- 音视频通话能力（TUICallKit）为实时音视频（TRTC）包月套餐提供的功能项之一，购买 TUICallKit 相当于订阅对应版本的 TRTC 包月套餐，更多 TRTC 包月套餐说明可参见 [TRTC版本功能](？？？)。
+- 音视频通话能力 TUICallKit 由即时通信 IM 与实时音视频 TRTC 两个底层 PaaS 服务提供支持，**使用期间请务必保证您的 IM 应用和 TRTC 应用处于可用状态，否则音视频通话相关功能将无法正常使用**。
 - 音视频通话能力购买后立即生效，体验版默认7天，付费版默认1个月。
 - 音视频通话能力暂不支持版本升降级。若您需要使用其他版本的音视频通话能力，可在当前版本到期后重新购买，或在满足 [退款规则](https://cloud.tencent.com/document/product/269/32473#.E4.BA.94.E5.A4.A9.E6.97.A0.E7.90.86.E7.94.B1.E9.80.80.E8.BF.98) 的前提下，退还当前版本音视频通话能力，重新购买新的版本。
 - 音视频通话能力不支持更换 SDKAppId，您在选购时请务必确认您需要购买的 SDKAppId。
@@ -190,10 +217,9 @@
 ![](https://qcloudimg.tencent-cloud.cn/raw/1d3791ea538dfc52280c4977bdc05937.png)
 5. 购买完成后，您可回到  [即时通信 IM 控制台](https://console.cloud.tencent.com/im)，在**腾讯实时音视频服务**功能区查看当前版本信息。开通完成后即可参见 [集成指引](https://cloud.tencent.com/document/product/269/72445) 进行集成。
 ![](https://qcloudimg.tencent-cloud.cn/raw/d4399cdf827f1d8e82a959cbf73bfd27.png)
-
-注意：
-* 购买 TUICallKit 相当于订阅对应版本的 TRTC 包月套餐，若您已经订阅过付费版的 TRTC 包月套餐，则无需重复加购音视频通话能力，仅需购买 IM 付费版后即可使用 TUICallKit。
-* 若您在满足前述条件下音视频通话能力仍显示未开通，您可通过点击【查看配置】前往 TRTC 控制台查看应用配置，并在【含 UI 集成方案】卡片中点击【立即开通组件】，开通成功后方可使用 TUICallKit。
+>!
+>- 购买 TUICallKit 相当于订阅对应版本的 TRTC 包月套餐，若您已经订阅过付费版的 TRTC 包月套餐，则无需重复加购音视频通话能力，仅需购买 IM 付费版后即可使用 TUICallKit。
+>- 若您在满足前述条件下音视频通话能力仍显示未开通，您可通过单击**查看配置**前往 TRTC 控制台查看应用配置，并在**含 UI 集成方案**卡片中单击**立即开通组件**，开通成功后方可使用 TUICallKit。
 
 
 ### 续费正式版
