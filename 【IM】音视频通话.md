@@ -215,9 +215,11 @@
 1. 登录 [即时通信 IM 购买页](https://buy.cloud.tencent.com/avc)。
 2. 根据实际业务需求选择数据中心，以及需要购买音视频通话能力的 SDKAppID，购买后无法修改。
 3. 若您当前 IM 应用已为专业版或旗舰版，可跳过该步骤；否则您需要先选择您所需要的套餐包，IM 基础套餐包区别可参见 [基础服务详情](https://cloud.tencent.com/document/product/269/11673#.E5.9F.BA.E7.A1.80.E6.9C.8D.E5.8A.A1.E8.AF.A6.E6.83.85.3Ca-id.3D.22jcfw.22.3E.3C.2Fa.3E)。
-![](https://qcloudimg.tencent-cloud.cn/raw/12927642b19a176bbea9a33b7000e281.png)
+<img width="1067" alt="image" src="https://user-images.githubusercontent.com/88317062/221549425-017e09a9-6287-4aef-b31e-a1d805bfd445.png">
+
 4. 在可选增值功能中勾选**音视频通话能力**，并在能力项中选择所需版本即可。
-![](https://qcloudimg.tencent-cloud.cn/raw/1d3791ea538dfc52280c4977bdc05937.png)
+<img width="1185" alt="image" src="https://user-images.githubusercontent.com/88317062/221549924-8b71180e-375b-4d5b-987a-ff13f353b50a.png">
+
 5. 购买完成后，您可回到  [即时通信 IM 控制台](https://console.cloud.tencent.com/im)，在**腾讯实时音视频服务**功能区查看当前版本信息。开通完成后即可参见 [集成指引](https://cloud.tencent.com/document/product/269/72445) 进行集成。
 ![](https://qcloudimg.tencent-cloud.cn/raw/d4399cdf827f1d8e82a959cbf73bfd27.png)
 >!
