@@ -26,18 +26,18 @@
 </tr>
 </thead>
 <tbody><tr>
-<tr>
-<td colspan=2>刊例价</td>
-<td> 0元/7天</td>
-<td><u>625元/月</u></td>
-<td><u>1875元/月</u></td>
-<td><u>6250元/月</u></td>
-</tr>
 <td colspan=2>限时8折优惠价<br></td>
 <td>0元/7天</td>
     <td>500元/月<br><a href="https://buy.cloud.tencent.com/avc">立即购买</a></td>
 <td>1500元/月<br><a href="https://buy.cloud.tencent.com/avc">立即购买</a></td>
 <td>5000元/月<br><a href="https://buy.cloud.tencent.com/avc">立即购买</a></td>
+</tr>
+    <tr>
+<td colspan=2>刊例价</td>
+<td> 0元/7天</td>
+<td><u>625元/月</u></td>
+<td><u>1875元/月</u></td>
+<td><u>6250元/月</u></td>
 </tr>
 <tr>
 <td colspan=2 style = "text-align:center"><a href = "#1">开通条件</a></td>
