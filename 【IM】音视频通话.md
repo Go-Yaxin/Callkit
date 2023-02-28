@@ -200,8 +200,8 @@
 您可以在 IM 控制台中为您的应用领取体验版进行体验试用，具体操作步骤如下：
 
 1. 登录 [即时通信 IM 控制台](https://console.cloud.tencent.com/im)，单击目标应用卡片，进入应用的基础配置页面。
-2. 找到**腾讯实时音视频服务**功能区，单击卡片下方的**音视频通话能力 > 免费体验**。
-![](https://qcloudimg.tencent-cloud.cn/raw/13f57710d12ef23838a47a6f055d1a6d.png)
+2. 找到**腾讯实时音视频服务**功能区，单击卡片下方的**音视频通话能力（TUICallKit） > 免费体验**。
+<img width="1619" alt="企业微信截图_15f5c4d9-5ecb-40f4-9986-ea3e75c3ae5d" src="https://user-images.githubusercontent.com/88317062/221796109-1954fdb2-2052-448f-9c33-85ff4f4d0976.png">
 3. 在弹窗中单击**领取7天试用**，即可成功开通音视频通话免费体验版。开通完成后即可参见 [集成指引](https://cloud.tencent.com/document/product/269/72445) 进行集成。
 ![](https://qcloudimg.tencent-cloud.cn/raw/af164154852adb1a77c2dad2c7d6200b.png)
 4. 若您当前 SDKAppID 领取的体验版尚未到期，您可单击**版本详情**，在版本详情弹窗中单击**体验续期**直接使用第二次体验机会，此时体验版有效期将延长7天。
